@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Khabare.git/static/css/main.073c9b0a.css",
+    "main.js": "/Khabare.git/static/js/main.03c74944.js",
+    "static/js/787.ac669bb1.chunk.js": "/Khabare.git/static/js/787.ac669bb1.chunk.js",
+    "static/media/duck.gif": "/Khabare.git/static/media/duck.3fb26d9b3c3c823ae786.gif",
+    "index.html": "/Khabare.git/index.html",
+    "main.073c9b0a.css.map": "/Khabare.git/static/css/main.073c9b0a.css.map",
+    "main.03c74944.js.map": "/Khabare.git/static/js/main.03c74944.js.map",
+    "787.ac669bb1.chunk.js.map": "/Khabare.git/static/js/787.ac669bb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.03c74944.js"
+  ]
+}
